@@ -1,0 +1,13 @@
+/* Write your code here. */
+.list-item {
+    margin-right: 16px;
+    margin-bottom: 16px;
+}
+
+.button {
+    background-color: transparent;
+    border: navajowhite;
+    padding: 0;
+    outline: none;
+    cursor: pointer;
+}
